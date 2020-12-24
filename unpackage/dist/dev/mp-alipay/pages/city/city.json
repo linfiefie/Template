@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "城市页面",
+  "pullRefresh": true,
+  "titleBarColor": "#007AFF",
+  "usingComponents": {
+    "head": "/components/head/head"
+  }
+}

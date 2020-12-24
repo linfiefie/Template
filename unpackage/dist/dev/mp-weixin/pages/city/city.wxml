@@ -1,0 +1,1 @@
+<view><head vue-id="1" name="张三" age="{{123}}" data-event-opts="{{[['^func',[['receiveFromChild']]]]}}" bind:func="__e" bind:__l="__l"></head><text>这是城市页面</text><text>{{$root.f0}}</text><view>{{"当前城市 "+city}}</view><view>{{mcity}}</view><button data-event-opts="{{[['tap',[['changeCity',['苏州']]]]]}}" bindtap="__e">修改城市</button></view>

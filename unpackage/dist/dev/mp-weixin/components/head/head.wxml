@@ -1,0 +1,1 @@
+<view>{{'这只头部组件\n\t'+msg+''}}<button data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" bindtap="__e">修改</button><button data-event-opts="{{[['tap',[['send',['$event']]]]]}}" bindtap="__e">向父亲传递数据</button></view>

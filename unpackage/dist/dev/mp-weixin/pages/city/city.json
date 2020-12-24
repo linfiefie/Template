@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "城市页面",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "disableScroll": true,
+  "usingComponents": {
+    "head": "/components/head/head"
+  }
+}
